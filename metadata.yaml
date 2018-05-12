@@ -1,0 +1,28 @@
+_repo: FranklinA-Sketch_40704
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40704-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bigelow, John
+    birthdate: 1817
+    deathdate: 1911
+    gutenberg_agent_id: '40771'
+    url: http://www.gutenberg.org/2009/agents/40771
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40704'
+  lccn: '14004869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcc 'E300'
+title: 'Franklin: A Sketch'
+url: http://www.gutenberg.org/ebooks/40704
